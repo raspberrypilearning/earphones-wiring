@@ -1,59 +1,42 @@
-## Introduction
+To connect earphones to your Raspberry Pi Pico, you will need:
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
++ A Raspberry Pi Pico
++ A pair of earphones with a 3 or 5mm jack (not a USB end)
++ 2 x crocodile clips
 
-### What you will make
+![A diagram showing earphones wired to a Raspberry Pi Pico.](images/earphones-wiring.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+--- task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Decide which crocodile clip will be for **Ground** and which will be for the **GP** pin. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+--- /task ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- task ---
 
-+ A computer or tablet capable of running Scratch 3
+Take your **GP** pin crocodile clip and attach it to the tip of the jack. 
 
-### Software
+--- /task ---
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- task ---
 
-### Downloads
+Take the other end of your **GP** pin crocodile clip and attach it to the **GP5** pin.
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+--- /task ---
 
---- /collapse ---
+--- task ---
 
---- collapse ---
----
-title: What you will learn
----
+Take your **Ground** crocodile clip and attach one end to the base of the jack. 
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+--- /task ---
 
---- /collapse ---
+--- task ---
 
---- collapse ---
----
-title: Additional information for educators
----
+Connect the other end of your **ground** crocodile clip to the **GND** pin closest to **GP5**. 
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+**Tip**: If your crocodile clips have quite large ends then you may wish to choose a **GND** pin that is further away.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+--- /task ---
 
---- /collapse ---
+![A diagram showing earphones wired to a Raspberry Pi Pico.](images/earphones-wiring.png)
+ 

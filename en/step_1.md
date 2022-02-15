@@ -6,13 +6,13 @@ To connect earphones to your Raspberry Pi Pico, you will need:
 
 **Instructions**
 
-1. Decide which crocodile clip will be for **Ground** and which will be for the **GP** pin. 
+1. Decide which crocodile clip will be for **ground** and which will be for the **GP** pin. 
 
 2. Take your **GP** pin crocodile clip and attach it to the tip of the jack. 
 
 3. Take the other end of your **GP** pin crocodile clip and attach it to the **GP5** pin.
 
-4. Take your **Ground** crocodile clip and attach one end to the base of the jack. 
+4. Take your **ground** crocodile clip and attach one end to the base of the jack. 
 
 5. Connect the other end of your **ground** crocodile clip to the **GND** pin closest to **GP5**. 
 

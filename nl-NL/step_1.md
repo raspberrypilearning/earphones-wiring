@@ -1,7 +1,7 @@
 Om een koptelefoon op je Raspberry Pi Pico aan te sluiten, heb je het volgende nodig:
 
 + Een Raspberry Pi Pico
-+ Een koptelefoon met een plug van 3 of 5mm (dus geen USB-aansluiting)
++ Een koptelefoon met een plug van 3 of 5 mm (dus geen USB-aansluiting)
 + 3 krokodillenklemmetjes
 
 **Instructies**
